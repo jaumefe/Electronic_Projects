@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-08-30T15:51:37Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Weather_Station"
+        },
+        "Owner": "Jaume Forner Escrig <jaumef.escrig96@gmail.com>",
+        "Size": {
+            "X": 30,
+            "Y": 20
+        }
+    }
+}
